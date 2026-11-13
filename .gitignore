@@ -1,0 +1,8 @@
+# Entornos Virtuales
+venv/
+env/
+.env
+
+
+# Opcional: Ignorar datos crudos si exceden los 100MB (Límite de GitHub)
+# data/raw/
